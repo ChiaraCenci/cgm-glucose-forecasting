@@ -1,0 +1,15 @@
+data/
+datasets/
+*.npy
+*.npz
+*.csv
+*.parquet
+*.h5
+*.keras
+*.ckpt*
+checkpoints/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+.DS_Store
